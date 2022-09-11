@@ -127,6 +127,7 @@ nav{
     width: 50%;
     margin-bottom: 25px;
 }
+
  /* main section */
 
  .container{
@@ -140,11 +141,7 @@ nav{
     padding-left: 7%;
     
 }
-
-
-
-
- .banner{
+.banner{
      width: 100%;
 
  }
@@ -182,6 +179,8 @@ nav{
      display: block;
      margin-bottom: 5px;
  }
+
+/* responsive code */
  @media  (max-width: 900px) {
 
     .menu-icon{
@@ -381,6 +380,9 @@ color: #5a5a5a;
 .old-com .com-action a{
     color: #0000ff;
 }
+
+/* resposive code */
+
 @media (max-width: 900) {
     .play-video{
         flex-basis: 100%;
@@ -399,6 +401,8 @@ color: #5a5a5a;
         margin-right: 15px;
         margin-top: 15px;
     }
+    
+/*     resposive code for mobile screen */
     
 }@media (max-width:480px ) {
     .play-video{
